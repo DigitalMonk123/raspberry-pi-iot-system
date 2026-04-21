@@ -20,3 +20,9 @@ This project can be extended for real-world applications with advanced customiza
 
 For professional Raspberry Pi development services:
 https://digitalmonk.biz/hire-raspberry-pi-developer/
+## Professional Services
+
+This project can be extended for real-world industrial and commercial applications.
+
+For expert Raspberry Pi development services:
+https://digitalmonk.biz/hire-raspberry-pi-developer/
